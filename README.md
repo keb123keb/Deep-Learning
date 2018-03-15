@@ -1,4 +1,4 @@
-# Deep_Learning
+# Deep-Learning
 
 - Deep_Learning_Lab/Lab0:  
   - Implement backpropagation   
